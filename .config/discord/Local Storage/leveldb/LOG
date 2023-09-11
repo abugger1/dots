@@ -1,0 +1,5 @@
+2023/09/09-22:39:08.202 ac7b Creating DB /home/sshep/.config/discord/Local Storage/leveldb since it was missing.
+2023/09/09-22:39:08.211 ac7b Reusing MANIFEST /home/sshep/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/09/09-22:42:16.027 ac7d Level-0 table #5: started
+2023/09/09-22:42:16.106 ac7d Level-0 table #5: 1900128 bytes OK
+2023/09/09-22:42:16.110 ac7d Delete type=0 #3
